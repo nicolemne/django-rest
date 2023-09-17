@@ -30,7 +30,6 @@ class ProfileDetail(APIView):
         try:
             profile = Profile.objects.get(pk=pk)
             self.check_object_permissions(self.request, profile)
-
             return profile
 
         except Profile.DoesNotExist:

@@ -1,7 +1,7 @@
 ---
-name: 'User Story: '
+name: User Stories
 about: User stories for the Moments walkthrough project
-title: ''
+title: 'User Story:'
 labels: ''
 assignees: nicolemne
 
